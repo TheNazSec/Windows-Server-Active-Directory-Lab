@@ -50,17 +50,15 @@ It also helped reinforce concepts from the **CompTIA Security+** certification b
 
 **Preview: Virtual Network Diagram**
 
-![Virtual Network Diagram](Diagram/Virtual_Network_Diagram.png)
-
-**Full Screenshot Archive:**  
-[Download Screenshots_Archive.zip](Screenshots_Archive.zip)
+![Virtual Network Diagram](https://github.com/user-attachments/assets/49b41efa-392d-4156-a64c-4f35539d48e4)
 
 ---
 
 ## Documentation
 
 The full project documentation, including purpose, objectives, implementation steps, and troubleshooting logs, is available below:  
-[Download Windows_Server_Active_Directory_Lab.pdf](Documentation/Windows_Server_Active_Directory_Lab.pdf)
+[Windows Server Active Directory Lab.pdf](Documentation/Windows%20Server%20Active%20Directory%20Lab.pdf)
+
 
 ---
 
@@ -73,5 +71,5 @@ I will continue building on this foundation in my next project, which focuses on
 ---
 
 **Author:** Nasir Ali  
-**LinkedIn:** [linkedin.com/in/nasir-ali](https://linkedin.com/in/nasir-ali)
+**LinkedIn:** [www.linkedin.com/in/nasir-ali-043819349)
 
